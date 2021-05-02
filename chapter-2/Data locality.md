@@ -1,6 +1,7 @@
 # Data locality
 
 ## 데이터 지역성이란?
+
 > In Hadoop, Data locality is the process of moving the computation close to where the actual data resides on the node, instead of moving large data to computation. This minimizes network congestion and increases the overall throughput of the system.
 
 Hadoop, Spark 등에서 볼 수 있는 용어.
